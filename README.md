@@ -6,7 +6,7 @@ Author Digital Signature:
 
 
 Document Digital Signature:
-  c5556d256d668973fd79e24713deb4aee93bf60e7173e685713d2f28ef5af413
+  63765f0e7b3d84ac069891a39bba18a7d090191ab60ec22604b93e54b3745ef2
 
 
 By way of example, anyone can download a copy of TheDimensionsOfSHA.pdf, deposit it somewhere else and claim it as their own.  They can even generate their own hash signature for it.  But this is where a good repository service comes in -- like GitHub.  The repo's timestamp.  Any copy would be timestamped later than this repo.  And the author can claim original authorship because I can show any tribunal that only I can produce the plaintext key that can produce my Digital Signature.
