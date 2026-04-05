@@ -2,13 +2,17 @@ The TheDimensionsOfSHA.pdf paper is a review of the workings of the Secure Hash 
 
 
 Author Digital Signature:
-  3d4ded1cd4a3318e665828c4f6deaf90964e4a7bc8ac1da406726ce1891fef5d
+  98fb00eec5e11cf33e32e89a0e93cc338a097d5860086b8004526a02050cb326
 
 
 Document Digital Signature:
   58d9f5f0c0470596137023a2712955c3ec22d6e4374bd6d368771025f8eb2a60
 
 
-By way of example, anyone can download a copy of TheDimensionsOfSHA.pdf, deposit it somewhere else and claim it as their own.  They can even generate their own hash signature for it.  But this is where a good repository service comes in -- like GitHub.  The repo's timestamp.  Any copy would be timestamped later than this repo.  And the author can claim original authorship because I can show any tribunal that only I can produce the plaintext key that can produce my Digital Signature.
+Doubt my claim re uncrackable SHA?  My Digital Signature.  Go ahead -- crack it.  What did I input to the SHA to produce that signature?
 
-But, you say, they could make minor changes to the document and claim original authorship.  1) I used a non-modifiable PDF format; making changes would be daunting -- is it worth it?  2) make *any* change and my Document Signature will not match.  The thief would have to make their own.  But after all that effort they still have the timestamp problem; they cannot claim that I'm the thief of their work, but I could make a case for the reverse.
+Fire up you supercomputers, your quantum computers, and have at it.
+
+Ram Jam Black Betty show me what you've got.  The gauntlet is thrown.  I give your best quantum computer 9 months, tops, of continuous calculation to find the input that generated my Digital Signature.
+
+Won't happen.
