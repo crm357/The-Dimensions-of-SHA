@@ -11,8 +11,8 @@ Document Digital Signature:
 
 Doubt my claim re uncrackable SHA?  My Digital Signature.  Go ahead -- crack it.  What did I input to the SHA to produce that signature?
 
-Fire up you supercomputers, your quantum computers, and have at it.
-
-Ram Jam Black Betty show me what you've got.  The gauntlet is thrown.  I give your best quantum computer 9 months, tops, of continuous calculation to find the input that generated my Digital Signature.
+Fire up you supercomputers, your quantum computers, and have at it.  Ram Jam Black Betty show me what you've got.  The gauntlet is thrown.  I give your best quantum computer 9 months, tops, of continuous calculation to find the input that generated the Author Digital Signature.
 
 Won't happen.
+
+That Signature will not be an easy crack, *but*, if these quantum computers are as fast as what I've gleaned from their proponents, the signature should be crackable in 9 months.  Yes?  No?
