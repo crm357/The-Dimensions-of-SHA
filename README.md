@@ -15,4 +15,13 @@ Fire up you supercomputers, your quantum computers, and have at it.  Ram Jam Bla
 
 Won't happen.
 
-That Signature will not be an easy crack, *but*, if these quantum computers are as fast as what I've gleaned from their proponents, the signature should be crackable in 9 months.  Yes?  No?
+
+OK.  Still doubt my claim?  My final shot across your bow -- The God Lock.
+
+d899a35c35d107b1d3ecfe0d8ce4cf83f2b68183a90347a542b039373f8fb8f90456d09105b9bc6cfd959d6e571b8eafac29b3716ac3a08acde3f7869d78078e
+
+This is on the record.  You will need an array of quantum computers running non-stop with the crack attempt parcelled out among the group for *5 years* -- uninterrupted.
+
+Why?  Because ALMIGHTY GOD cannot break that lock.
+
+(Don't tell me that's just a series of random characters -- remember, I have the key that unlocks that lock)
