@@ -6,7 +6,7 @@ Author Digital Signature:
 
 
 Document Digital Signature:
-  58d9f5f0c0470596137023a2712955c3ec22d6e4374bd6d368771025f8eb2a60
+  919856ac85348734a7eebc50c000692e253e1ac800b024bc654180954534418d
 
 
 Doubt my claim re uncrackable SHA?  My Digital Signature.  Go ahead -- crack it.  What did I input to the SHA to produce that signature?
@@ -15,7 +15,8 @@ Fire up you supercomputers, your quantum computers, and have at it.  Ram Jam Bla
 
 Won't happen.
 
-OK.  Still doubt my claim?  My final shot across the quantum bow -- The God Lock.
+
+OK.  Still doubt my claim?  My final shot across your bow -- The God Lock.
 
 d899a35c35d107b1d3ecfe0d8ce4cf83f2b68183a90347a542b039373f8fb8f90456d09105b9bc6cfd959d6e571b8eafac29b3716ac3a08acde3f7869d78078e
 
