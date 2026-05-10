@@ -21,7 +21,7 @@ OK, still doubt my claim?  My final shot across the bow -- The God Lock.
 d899a35c35d107b1d3ecfe0d8ce4cf83f2b68183a90347a542b039373f8fb8f90456d09105b9bc6cfd959d6e571b8eafac29b3716ac3a08acde3f7869d78078e
 
 
-This is on the record.  You'll need an array of quantum computers running in parallel, non-stop, with the crack attempt parceled out across the array -- for 5 years! -- uninterrupted!
+This is on the record.  You'll need an array of quantum computers running in parallel, non-stop, with the crack attempt parceled out across the array -- for 5 years! -- uninterrupted!  And then you'll give up.
 
 Why?  Because God Almighty cannot break that lock.  (Don't tell me that's just a series of random characters -- remember, I have the key that produces that lock)
 
